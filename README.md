@@ -38,12 +38,6 @@ Más proyectos próximamente...
 
 ---
 
-## 📊 Estadísticas de GitHub
-
-![Estadísticas](https://github-readme-stats.vercel.app/api?username=KikoLista7&show_icons=true)
-
----
-
 ## 📫 Contacto
 
 📧 kiko.lista7@gmail.com

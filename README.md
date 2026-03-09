@@ -56,18 +56,12 @@ Este proyecto permite añadir y gestionar tareas en una lista sencilla.
 
 ---
 
-## 📊 Estadísticas de GitHub
+## 📫 Contacto
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=KikoLista7&show_icons=true&theme=tokyonight"/>
-</p>
+📧 kiko.lista7@gmail.com
 
 ---
 
 <p align="center">
 ✨ Siempre aprendiendo y construyendo nuevos proyectos ✨
 </p>
-
-## 📫 Contacto
-
-📧 kiko.lista7@gmail.com
